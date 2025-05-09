@@ -1,18 +1,6 @@
-# Intensive Co-Learning on AI Agent / AI Agent 残酷共学 <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# AI Agent 残酷共学
 
 ## 介绍
-
-## 介绍
-
-本轮残酷共学聚焦 **「AI Agent」** —— 由大型语言模型（LLM）驱动、能自主规划、调用工具并完成任务的新一代智能体。
-我们将以顶尖课程 *CS598 Topics in LLM Agents*（UIUC）中涵盖的前沿研究论文为主要学习材料，结合最新研究进展，在三周高强度的论文研读、总结与讨论中，一起深入理解 Agent 的核心概念、关键能力、主流框架及未来挑战。本次共学将特别强调**论文的精读、理解与个人观察的总结**。
-
-### 共学目标
-
-- **深入理解**：系统性学习并掌握 LLM Agent 在推理、记忆、规划、工具调用、多模态处理等关键模块的核心论文和主流方法。
-- **总结观察**：针对每周研读的论文，独立完成思考，总结个人观察、批判性见解和潜在的启发。
-- **批判与展望**：基于论文学习，评估当前 Agent 技术的局限性（如数据、对齐、安全、人机协作等），并对下一代 Agent / AGI 的发展方向形成自己的思考与展望。
-
 
 本轮残酷共学聚焦 **「AI Agent」** —— 由大型语言模型（LLM）驱动、能自主规划、调用工具并完成任务的新一代智能体。
 我们将以顶尖课程 *CS598 Topics in LLM Agents*（UIUC）中涵盖的前沿研究论文为主要学习材料，结合最新研究进展，在三周高强度的论文研读、总结与讨论中，一起深入理解 Agent 的核心概念、关键能力、主流框架及未来挑战。本次共学将特别强调**论文的精读、理解与个人观察的总结**。
@@ -30,7 +18,9 @@ AI Agent, LLM, Tool Use, Planning, Reasoning, Paper Reading, Self-Reflection, Me
 
 ## 面向人群
 
-- 想系统性学习或快速深入理解 Agent 相关前沿研究的 Web3 / AI 开发者、产品经理、研究者 - 有志于将 LLM Agent 的理论知识应用于实际业务流程、DAO 治理或创意生产的实践者 - 喜欢高密度论文阅读、深度思考、总结提炼与热烈讨论的共学型选手
+- 想系统性学习或快速深入理解 Agent 相关前沿研究的 Web3 / AI 开发者、产品经理、研究者
+- 有志于将 LLM Agent 的理论知识应用于实际业务流程、DAO 治理或创意生产的实践者
+- 喜欢高密度论文阅读、深度思考、总结提炼与热烈讨论的共学型选手
 
 ## 报名时间
 
@@ -51,20 +41,17 @@ AI Agent, LLM, Tool Use, Planning, Reasoning, Paper Reading, Self-Reflection, Me
 
 ## 发起组织
 
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+[LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
 
 
 
 ## 请假规则
 
-每周请假 每周请假 2 次 次
+每周请假 2 次
 
 ## 社群
 
 Telegram：https://t.me/LXDAO
-
-## 学习资料/课程安排
-
 
 ## 学习资料/课程安排
 
@@ -163,10 +150,8 @@ Telegram：https://t.me/LXDAO
 打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
 
-
 ## 更多信息
 
-{这部分内容是直接用 markdown 格式来编写，也不是必须的，这部分是如果有信息上面模块没有覆盖到，可以写在这里}
 
 ## 报名和打卡规则
 
@@ -204,8 +189,6 @@ Telegram：https://t.me/LXDAO
 
 
 
-
-
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
@@ -217,38 +200,3 @@ Telegram：https://t.me/LXDAO
 - 淘汰率: 0.00%
 - Fork人数: 0
 <!-- STATISTICALDATA_END -->
-
-> 如果你是此次共学发起人，请进行以下操作进行自动化发放权限的设置，完成后请将这一部分内容从你的仓库中删掉。
-
-### 为您的组织 【残酷共学营】 创建具有邀请协作者权限的个人访问令牌
-
-要创建具有邀请协作者权限的个人访问令牌，请按照以下步骤操作：
-
-1. 导航到您的个人设置: 转到 https://github.com/settings/profile 并登录您的 GitHub 帐户。
-
-2. 访问个人访问令牌页面: 在左侧菜单中，单击 “开发者设置”，然后选择 “个人访问令牌”。
-
-3. 创建新令牌: 点击 “生成新令牌” 按钮,选择 classic 的。
-
-4. 命名您的令牌: 在 “令牌名称” 字段中输入一个描述性名称，例如 `invite-collaborators`。
-
-5. 选择适当的范围: 在 “范围” 部分，选择授予您的令牌所需的权限。对于邀请协作者，您需要授予以下范围：
-
-- `repo:invite`：允许您的令牌创建存储库邀请。最好是给这个令牌赋予 repo 总权限。
-- `admin:org` 权限的用户才能创建具有邀请协作者权限的个人访问令牌。
-
-6. 将令牌值添加到存储库 secret: 按照上述步骤将您的个人访问令牌值添加到您的存储库 secret 中，并将名称设置为 `PAT_WITH_INVITE_PERMISSIONS`。
-
-![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
-<img width="1213" alt="image" src="https://github.com/user-attachments/assets/ef8e870d-e594-4caa-b42e-01150d5b5562" />
-
-### 配置共学信息配置变量
-
-1. 配置这两个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
-
-| Field Name | Value                     | Comments   |
-| ---------- | ------------------------- | ---------- |
-| START_DATE | 2025-06-24T00:00:00+00:00 | Start time |
-| END_DATE   | 2025-07-06T23:59:59+00:00 | End time   |
-
-![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)

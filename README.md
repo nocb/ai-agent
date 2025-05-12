@@ -24,13 +24,13 @@ AI Agent, LLM, Tool Use, Planning, Reasoning, Paper Reading, Self-Reflection, Me
 
 ## 报名时间
 
-- 开始时间：2025-06-01
-- 结束时间：2025-06-08
+- 开始时间：2025-05-25
+- 结束时间：2025-05-31
 
 ## 共学时间
 
-- 开始时间：2025-06-09
-- 结束时间：2025-06-29
+- 开始时间：2025-06-01
+- 结束时间：2025-06-21
 
 ## 发起人
 
@@ -51,7 +51,7 @@ AI Agent, LLM, Tool Use, Planning, Reasoning, Paper Reading, Self-Reflection, Me
 
 ## 社群
 
-Telegram：https://t.me/LXDAO
+Telegram：https://t.me/LXDAO/24843
 
 ## 学习资料/课程安排
 
@@ -163,7 +163,7 @@ Telegram：https://t.me/LXDAO
   - Step02：复制 Template.md 创建你的个人笔记文件，并根据文档指引填写你的信息，并将文件重命名为你的 GitHub ID：YourGitHubID.md。
   - Step03：创建一个 PR 到当前仓库，本残酷共学助教会对你的 PR 进行 review，review 通过后，你的 PR 会被 merge 到 main 分支，这个时候你会收到邀请加入这个仓库 contribution 的邮件，接受邀请后，你会自动获得 main 分支的 push 权限。
   - Step04：完成以上三个步骤，恭喜你报名成功，后续就可以将你的学习记录直接 push 到 main 分支进行更新。
-  - 请加入 https://t.me/LXDAO/ 群组保持交流。加入群组后请在群里报到一下方便助教记录。
+  - 请加入 https://t.me/LXDAO/24843 群组保持交流。加入群组后请在群里报到一下方便助教记录。
 
 - 打卡：
   - 报名成功后，你将拥有 main 分支的 push 权限，你需要将每天学习笔记按日期更新到你的 YourName.md 文档中，提交更新后，我们会自动更新你的打卡状态到下面的打卡记录表。

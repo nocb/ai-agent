@@ -185,8 +185,9 @@ Telegram：https://t.me/LXDAO/24843
 <!-- START_COMMIT_TABLE -->
 | Name | 6.09 | 6.10 | 6.11 | 6.12 | 6.13 | 6.14 | 6.15 | 6.16 | 6.17 | 6.18 | 6.19 | 6.20 | 6.21 | 6.22 | 6.23 | 6.24 | 6.25 | 6.26 | 6.27 | 6.28 | 6.29 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [dexhunter](https://github.com/IntensiveCoLearning/ai-agent/blob/main/dexhunter.md) |  |  |  |  | | | | | | | | | | | | | | | | | |
+| [dexhunter](https://github.com/IntensiveCoLearning/ai-agent/blob/main/dexhunter.md) |  |  |  |  |  | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

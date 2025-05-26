@@ -190,7 +190,9 @@ Telegram：https://t.me/LXDAO/24843
 | [universe-ron](https://github.com/IntensiveCoLearning/ai-agent/blob/main/universe-ron.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [fuhaooo](https://github.com/IntensiveCoLearning/ai-agent/blob/main/fuhaooo.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [chesley666](https://github.com/IntensiveCoLearning/ai-agent/blob/main/chesley666.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [StarryDesert](https://github.com/IntensiveCoLearning/ai-agent/blob/main/StarryDesert.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

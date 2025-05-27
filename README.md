@@ -194,7 +194,9 @@ Telegram：https://t.me/LXDAO/24843
 | [apkaisaw](https://github.com/IntensiveCoLearning/ai-agent/blob/main/apkaisaw.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [MartinYeung5](https://github.com/IntensiveCoLearning/ai-agent/blob/main/MartinYeung5.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [shendongyang05](https://github.com/IntensiveCoLearning/ai-agent/blob/main/shendongyang05.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [Bitpeng-YT](https://github.com/IntensiveCoLearning/ai-agent/blob/main/Bitpeng-YT.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

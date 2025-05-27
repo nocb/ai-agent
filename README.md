@@ -192,7 +192,10 @@ Telegram：https://t.me/LXDAO/24843
 | [chesley666](https://github.com/IntensiveCoLearning/ai-agent/blob/main/chesley666.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [StarryDesert](https://github.com/IntensiveCoLearning/ai-agent/blob/main/StarryDesert.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [apkaisaw](https://github.com/IntensiveCoLearning/ai-agent/blob/main/apkaisaw.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [MartinYeung5](https://github.com/IntensiveCoLearning/ai-agent/blob/main/MartinYeung5.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [shendongyang05](https://github.com/IntensiveCoLearning/ai-agent/blob/main/shendongyang05.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

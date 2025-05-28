@@ -196,7 +196,9 @@ Telegram：https://t.me/LXDAO/24843
 | [shendongyang05](https://github.com/IntensiveCoLearning/ai-agent/blob/main/shendongyang05.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Bitpeng-YT](https://github.com/IntensiveCoLearning/ai-agent/blob/main/Bitpeng-YT.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/ai-agent/blob/main/CHENFANGC.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [fffuuuming](https://github.com/IntensiveCoLearning/ai-agent/blob/main/fffuuuming.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

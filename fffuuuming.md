@@ -25,6 +25,37 @@ Example:
 ![截圖 2025-06-02 凌晨12.33.59](https://hackmd.io/_uploads/SksB-Z5Mee.png)
 There still remain challenges for LLM agent such as **self-reflection (meta reasoning), state inferences, replanning, synthetic data, internalized search...**, but thanks to the use of language, both of its expressiveness and adaptivity are high, and language-based inferences makes its reasoning flexible (but fuzzy)
 
-### 2025.07.02
+### 2025.06.02
+---
+**ReACT**: A Prompting strategy that **mimic human thinking which alternates between thinking and doing**, by interleaving **reasoning traces** and **action steps** in LLMs, general workflow includes:
+1. Reason about a problem (via thoughts)
+2. Take actions (e.g., interact with tools, environments)
+3. Use the observations to guide further reasoning.
+
+By doing this, it can
+- Reduce hallucinations by grounding reasoning in environment feedback
+- Good interpretability (just like human-thinking)
+- Good Error Recovery: when encounter poor search results, it can reason about alternate paths and adapte its plan dynamically
+- Good sample efficiency
+
+Limitation:
+- Repetitive reasoning loops if decoding gets stuck.
+- Sensitive to search failures, especially with weak APIs.
+- Prompt design and trajectory annotation can be labor-intensive.
+- Performance drops in smaller models or zero-shot settings compared to fine-tuned baselines.
+
+Simple comparison
+
+
+| Feature | CoT |  act-only   | ReAct |
+| -------- | -------- | --- | -------- |
+|  Input        | Natural language query         |  Environment observation   | Query + observation         |
+|  Output        | Thought sequences only         |Action commands only     | Alternating thought & action         |
+| Memory/Plan Tracking         |Internal memory only          | Observation-based only    | Thought + observation         |
+| Sample Efficiency         | Few-shot, but limited generalization         |Depends on demonstrations     |      Few-shot effective, adaptable    |
+| Error Recovery         | Poor (error propagates)         | Poor (no reflection)    | Good (reason over feedback)         |
+---
+**Question**
+1. what does sub-optimal greedy decoding procedure mean ? and how does decoding method affect the reasoning
 
 <!-- Content_END -->

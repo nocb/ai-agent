@@ -15,9 +15,9 @@ timezone: UTC+8
 
 <!-- Content_START -->
 
-# 2025.06.1
+# 2025.06.01
 
-Reading paper *How far are we from AGI*[1]
+Reading paper *How far are we from AGI* [1] Section 2-3
 
 * preception
 * reasoning
@@ -37,6 +37,37 @@ Reading paper *How far are we from AGI*[1]
 
 
 [1]: https://openreview.net/pdf?id=H2ZKqfNd0U
+
+# 2025.06.02
+
+Reading paper *How far are we from AGI* [1] Section 4-7
+
+evaluation
+
+* comprehensiveness
+* fairness
+* efficiency
+
+“What” Do We Evaluate: Existing Evaluation Aspects 
+
+* Open-ended conversation -> multi turn 
+
+## Usecases (sec 7)
+
+* AI for Science Discovery and Research
+* Generative Visual Intelligence
+    * vllm
+* World Models for AGI
+* Decentralized AI
+    * edge devices
+* AI for Coding
+    * copilot
+* Embodied AI: AI for Robotics
+* Human-AI Collaboration
+
+# 2025.06.03
+
+
 
 
 

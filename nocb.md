@@ -20,7 +20,21 @@ timezone: UTC+8
 
 ### 2025.06.01
 
-笔记内容
+#### 理解agent
+
+agent理解 ：感知环境 ，驱动环境
+- 语言代理采用语言作为通用接口，是革命性的
+- 语言代理在表达力、灵活性和适应性上有较大优势，
+
+####  AGI 组件
+- AGI 内部： 感知 推理 元认知 记忆 
+- AGI接口： digital world，physical world ，humans，robot 
+- AGI sys： 架构，算法，平台，效率及成本
+
+#### 英文名词：
+- state inference 状态推理 
+- self reflection 自我反思 
+- replaning  重新规划 
 
 ### 2025.06.02  
 ### 2025.06.03  
